@@ -1,1 +1,8 @@
-{"rewrites":[{"source":"/","destination":"/axa_maps.html"}]}
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/axa_map.html"
+    }
+  ]
+}
