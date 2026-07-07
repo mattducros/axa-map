@@ -3,13 +3,7 @@
     "assets": [
       {
         "root": "dist",
-        "pattern": "assets/**/*"
-      }
-    ],
-    "pages": [
-      {
-        "root": "dist/assets",
-        "pattern": "*.html"
+        "pattern": "**/*"
       }
     ],
     "features": "sites-config/features.json",
