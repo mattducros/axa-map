@@ -3,6 +3,10 @@
     "assets": [
       {
         "root": "dist",
+        "pattern": "*.html"
+      },
+      {
+        "root": "dist",
         "pattern": "**/*"
       }
     ],
