@@ -1,5 +1,10 @@
 {
+  "outputDirectory": "public",
   "rewrites": [
+    {
+      "source": "/axa_map",
+      "destination": "/axa_map.html"
+    },
     {
       "source": "/",
       "destination": "/axa_map.html"

@@ -14,3 +14,9 @@ staticRoutes:
   - from: /axa_map
     to: /axa_map.html
     status: 200
+  - from: /axa_map.html
+    to: /axa_map.html
+    status: 200
+  - from: /
+    to: /axa_map.html
+    status: 200
