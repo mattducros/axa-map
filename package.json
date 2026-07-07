@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AXA Map",
   "scripts": {
-    "build": "echo 'No build steps required'",
+    "build": "mkdir -p dist && cp axa_map.html dist/",
     "dev": "echo 'Development server'"
   },
   "dependencies": {}

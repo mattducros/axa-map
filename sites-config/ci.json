@@ -3,11 +3,7 @@
     "assets": [
       {
         "root": "dist",
-        "pattern": "assets/**/*"
-      },
-      {
-        "root": ".",
-        "pattern": "axa_map.html"
+        "pattern": "**/*"
       }
     ],
     "features": "sites-config/features.json",
