@@ -1,0 +1,10 @@
+{
+  "name": "axa-map",
+  "version": "1.0.0",
+  "description": "AXA Map",
+  "scripts": {
+    "build": "echo 'No build steps required'",
+    "dev": "echo 'Development server'"
+  },
+  "dependencies": {}
+}
