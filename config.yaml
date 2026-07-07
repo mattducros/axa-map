@@ -1,0 +1,16 @@
+buildConfiguration:
+  buildCommand: npm run build
+  installDependenciesStep:
+    command: npm install
+    requiredFiles:
+      - package.json
+      - package-lock.json
+      - .npmrc
+
+livePreviewConfiguration:
+  serveCommand: "npm run dev -- --port 8080"
+
+staticRoutes:
+  - from: /axa_map
+    to: /axa_map.html
+    status: 200
